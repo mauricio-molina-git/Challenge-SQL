@@ -1,0 +1,1 @@
+Mi nombre es Mauricio Molina, para realizar los ejercicios opte por utilizar Microsoft SQL Server Management Studio 18. 
